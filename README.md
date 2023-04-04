@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, SQL, BigData**
 
-- 👀 I'm interested in **Data, BigData**
+- 👀 I'm interested in **Everything Data Engineering, & BigData**
 
 - ⚡ Fun fact **I love Anime**
 
